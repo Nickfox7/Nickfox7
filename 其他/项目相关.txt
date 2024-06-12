@@ -1,0 +1,13 @@
+1.缓存的作用：可以保护后台的接口不被大量的请求所攻击
+
+2.整体功能的实现：
+https://www.bilibili.com/video/BV1U44y1W77D?p=1&vd_source=7c53188f346157af257c95c9f7063f30
+
+
+3.实现邮箱登录和找回密码：
+https://www.bilibili.com/video/BV14Y4y1C7B1/?spm_id_from=333.788&vd_source=7c53188f346157af257c95c9f7063f30
+
+4.解决进程被占用
+cmd打开命令行窗口
+先输入 netstat -ano|findstr 9091
+再输入 taskkill -PID 进程号 -F
