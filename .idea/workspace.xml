@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07a68559-ca98-4948-914d-ac2b8decf5cb" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot/vue/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/public/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/0-51.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/MSL.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/PLS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SF1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SF2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SF3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SF4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/SJL_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/excel/噻菌灵.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/font/DS-DIGI.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/font/DS-DIGIB.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/font/DS-DIGII.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/font/DS-DIGIT.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/Si_CARS_PLS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portable5025Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portable5025Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portable5025Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableChen15Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableChen15Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableChen15Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableChen5Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableChen5Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableChen5Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableXin45Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableXin45Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableXin45Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableXin55Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableXin55Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20220915/portableXin55Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/Si_GA_PLS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portable5012Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portable5012Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portable5012Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portableChen2Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portableChen2Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portableChen2Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portableXin22Point1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portableXin22Point2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/20230418/portableXin22Point3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/15.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/20220915模型.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/25.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/35.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/45.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20220915/55.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20230418/12.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20230418/2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20230418/20230418模型.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/assets/myExcel/data/便携式/20230418/22.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/components/Global.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/components/Global_Pan.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/components/ValidCode.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/DVI.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/DetectionModel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/DetectionRecord.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Equipment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/FeatureImg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/File.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Manage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Menu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Password.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Person.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/PlatformProcess.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/PlatformProcess_Pan.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/Role.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/SpectrumFile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/User.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/div.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/src/views/test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/vue/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot/vue" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2V0FlhBYlKTuCzyIlYPkCvtstBW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/.1work/cloud/20240125/SpeFlatformFirst_FourthVersion/springboot/vue/src/assets/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\src\assets\img" />
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\src\assets\font" />
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\src\assets\myExcel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\src\assets\img" />
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\src\assets" />
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\dist\fonts" />
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\dist\img" />
+      <recent name="E:\.1work\cloud\20240125\SpeFlatformFirst_FourthVersion\springboot\vue\dist\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.run">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/springboot/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.run" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a68559-ca98-4948-914d-ac2b8decf5cb" name="默认更改列表" comment="" />
+      <created>1693965253954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693965253954</updated>
+      <workItem from="1693965273874" duration="191000" />
+      <workItem from="1693965837028" duration="360000" />
+      <workItem from="1693967472877" duration="95000" />
+      <workItem from="1693998389034" duration="3565000" />
+      <workItem from="1694437478244" duration="897000" />
+      <workItem from="1712821359328" duration="2859000" />
+      <workItem from="1712881023172" duration="4185000" />
+      <workItem from="1712885803180" duration="1087000" />
+      <workItem from="1712886917560" duration="2047000" />
+      <workItem from="1712888977724" duration="20977000" />
+      <workItem from="1712967775620" duration="337000" />
+      <workItem from="1712968516279" duration="896000" />
+      <workItem from="1712969423459" duration="5545000" />
+      <workItem from="1712994912022" duration="1327000" />
+      <workItem from="1713139549225" duration="5406000" />
+      <workItem from="1713145000378" duration="6977000" />
+      <workItem from="1713227361385" duration="19623000" />
+      <workItem from="1713313160678" duration="20998000" />
+      <workItem from="1713398976230" duration="7520000" />
+      <workItem from="1713484672604" duration="3075000" />
+      <workItem from="1713515819625" duration="777000" />
+      <workItem from="1713573622462" duration="1696000" />
+      <workItem from="1713745785157" duration="79000" />
+      <workItem from="1713747773941" duration="2340000" />
+      <workItem from="1713773006571" duration="3276000" />
+      <workItem from="1713831308573" duration="4046000" />
+      <workItem from="1714377720625" duration="627000" />
+      <workItem from="1714887872954" duration="7524000" />
+      <workItem from="1714954727727" duration="1486000" />
+      <workItem from="1714957922226" duration="671000" />
+      <workItem from="1714993372544" duration="2798000" />
+      <workItem from="1715040822088" duration="17830000" />
+      <workItem from="1715127050599" duration="6693000" />
+      <workItem from="1715150000742" duration="1543000" />
+      <workItem from="1715213027079" duration="2410000" />
+      <workItem from="1715223245713" duration="16672000" />
+      <workItem from="1715263603230" duration="693000" />
+      <workItem from="1715299158180" duration="15150000" />
+      <workItem from="1715323709635" duration="12842000" />
+      <workItem from="1715386292896" duration="2059000" />
+      <workItem from="1715388464492" duration="1039000" />
+      <workItem from="1715389853477" duration="7963000" />
+      <workItem from="1715414055957" duration="7658000" />
+      <workItem from="1715471474402" duration="4259000" />
+      <workItem from="1715494523564" duration="17906000" />
+      <workItem from="1715559883722" duration="7231000" />
+      <workItem from="1715647827971" duration="12000" />
+      <workItem from="1715846442680" duration="458000" />
+      <workItem from="1715848044550" duration="2135000" />
+      <workItem from="1716171090308" duration="2410000" />
+      <workItem from="1716194690632" duration="1315000" />
+      <workItem from="1716251212953" duration="752000" />
+      <workItem from="1716271525585" duration="1309000" />
+      <workItem from="1716339686323" duration="1167000" />
+      <workItem from="1716341364321" duration="295000" />
+      <workItem from="1716344299758" duration="1137000" />
+      <workItem from="1716364204465" duration="599000" />
+      <workItem from="1717114811894" duration="7000" />
+      <workItem from="1717812237536" duration="729000" />
+      <workItem from="1718096538123" duration="799000" />
+      <workItem from="1718155746678" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
